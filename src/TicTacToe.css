@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+table td {
+    border: 3px solid goldenrod;
+    width: 100px;
+    height: 100px;
+    background-color:#131A28;
+    color: honeydew;
+    font-size: 40px;
+}
